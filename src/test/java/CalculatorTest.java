@@ -14,4 +14,12 @@ public class CalculatorTest {
 			Assert.assertEquals(exp, act);
 	}
 
+	@Test
+	
+	public void test1() {
+		
+		System.out.println("Di it method for a trial");
+	}
+	
+	
 }
